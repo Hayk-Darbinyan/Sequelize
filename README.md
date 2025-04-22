@@ -20,6 +20,8 @@ npm run start
 
 npx sequelize-cli db:migrate
 
+## Any api calls examples
+
 ## Get all dealerships
 
 curl -X GET http://localhost:3000/api/dealerships
