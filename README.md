@@ -1,3 +1,9 @@
+## Setup instructions
+
+git clone https://github.com/Hayk-DarbinyanSequelizegit
+cd Sequelize
+npm install
+
 ## .env format
 
 DB_HOST=localhost
